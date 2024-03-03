@@ -8,7 +8,7 @@
                                                 /___/                        
 
 
-                            DLL Injector (SigmaLoad1488) in C++ (x86 / x64) 
+                            DLL Injector (SigmaLoad1488) in Python (x64) 
                                       Full Undetected Injector.
 ```
 
