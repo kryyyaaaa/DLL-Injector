@@ -16,4 +16,3 @@
 #### Этот инжектор спизжен, и переделан для людей, которые не поняли как работает <a href="https://github.com/adamhlt/DLL-Injector">оригинал</a>
 
 ## Тест
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
