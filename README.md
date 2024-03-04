@@ -9,7 +9,7 @@
 
 
                             DLL Injector (SigmaLoad1488) in Python (x64) 
-                                      Full Undetected Injector.
+                                      without bypass Injector xD
 ```
 
 ## About
